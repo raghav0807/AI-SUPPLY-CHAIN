@@ -57,11 +57,3 @@ Supply chains are becoming increasingly complex due to globalization and the dem
    - Web dashboards and APIs for seamless interaction.
 
 ---
-
-## **Installation**
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/predictive-supply-chain-solution.git
-   cd predictive-supply-chain-solution
-   ```
